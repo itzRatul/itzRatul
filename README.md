@@ -3,8 +3,6 @@
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ratul+%F0%9F%91%8B;Aspiring+AI+Researcher;LLM+Enthusiast;Building+the+Future+with+AI+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-<br/>
-
 # MD Ratul Hossen
 
 **`AI Researcher | LLM Explorer | Data-Driven Builder`**
@@ -25,6 +23,12 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=itzRatul&label=Profile+Views&color=6E40C9&style=flat" alt="Profile Views" />
+
+<br/>
+
+<a href="https://github.com/itzRatul/itzRatul/raw/main/MD_Ratul_Hossen_CV.pdf">
+  <img src="https://img.shields.io/badge/Download_CV-6E40C9?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
 
 </div>
 
@@ -129,7 +133,23 @@ ratul = {
         <img src="https://img.shields.io/badge/Data_Structures-grey?style=flat" />
       </p>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <h3 align="center">🌐 Personal Portfolio</h3>
+      <p align="center">
+        <a href="https://github.com/itzRatul/portfolio">
+          <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://itzratul.github.io/portfolio/">
+          <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        </a>
+      </p>
+      <p>Personal portfolio website showcasing my <b>projects, skills, and journey</b> as an aspiring AI researcher. A central hub for everything I build and explore.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      </p>
+    </td>
   </tr>
 </table>
 
